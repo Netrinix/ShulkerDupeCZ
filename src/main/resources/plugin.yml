@@ -1,0 +1,9 @@
+name: ShulkerDupeCZ
+version: '${project.version}'
+main: dev.drrockymc.shulkerdupecz.Main
+authors: [ 2B2TDrRockyMC, jiyun233 ]
+description: jiyun233 的 ShulkerDupe 插件重制版
+
+commands:
+  sd:
+    description: ShulkerDupe 重制版主命令
